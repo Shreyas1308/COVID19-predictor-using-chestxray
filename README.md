@@ -8,3 +8,4 @@ It uses CNN(Convolutional Neural Network) for the processing of the chest x ray 
 First thing first download the database and store it in the folder where the `database preparation pynotebook` is stored. Then in the dataset creation file add the `image path` in the `image variable` and `csv` file in the file variable.<br />
 Similarly store the file in the respective variable and use that to acess the database.<br />
 After making a saperate list of covid positive and negative patients you can further segregate both dataset to train and validation set and use it in the COVID19 DETECTOR file. But here in this file I've used an already prepared train and validation set. 
+### **IMPORTANT NOTE**
