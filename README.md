@@ -1,3 +1,4 @@
 # COVID19-predictor-using-chestxray
 Project that is used to predict whether a patient is corona positive or not.
-It uses CNN(Convolutional Neural Network) for the processing of the chest x ray image.
+It uses CNN(Convolutional Neural Network) for the processing of the chest x ray image. Reason for choosing this method is because it si more cheap, economical and accurate as compared to other methods
+## Liks for the Datase
